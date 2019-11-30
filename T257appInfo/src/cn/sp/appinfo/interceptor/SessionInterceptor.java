@@ -12,6 +12,7 @@ public class SessionInterceptor extends HandlerInterceptorAdapter{
 			throws Exception {
 		// TODO Auto-generated method stub
 		return super.preHandle(request, response, handler);
+		
 	}
 	
 	
